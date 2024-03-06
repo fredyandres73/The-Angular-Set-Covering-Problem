@@ -1,4 +1,4 @@
-# Instances-for-The-Angular-Set-Covering-Problem
+# The-Angular-Set-Covering-Problem
 As an example, the instance "1.1 F72_72P_14U_2S_4C" is presented:
 ### Instance parameters
 72 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Number of demand points\
